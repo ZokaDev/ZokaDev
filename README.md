@@ -1,9 +1,12 @@
-### Hi there I'm Zoka Dev
-
-- 🌱 I’m currently learning HTML, CSS and JS
-- 📫 How to reach me: zokadevlop@gmail.com
-- 😄 Pronouns: he/him
 <div align="center">
+  <h1>Hi there I'm Zoka Dev</h1><br>
+  - 🌱 I’m currently learning HTML, CSS and JS<br>
+  - 📫 How to reach me: zokadevlop@gmail.com<br>
+  - 😄 Pronouns: he/him
+</div>
+
+<div align="center">
+  <br>
   <img height=140em src="https://github-readme-stats.vercel.app/api?username=zokadev&theme=react&show_icons=true&include_all_commits=true&count_private=true">
   <img height=140em src="https://github-readme-stats.vercel.app/api/top-langs?username=zokadev&theme=react&layout=compact&langs_count=16">
 </div>
@@ -18,7 +21,6 @@
 </div>
 
  ## 
-<div> 
+<div align="center"> 
   <a href = "mailto:zokadevlop@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></a> 
-  
 </div>
